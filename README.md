@@ -1,4 +1,4 @@
-<img width="661" height="442" alt="booking_demand_trend" src="https://github.com/user-attachments/assets/c1bee104-f655-451b-8f3c-c78d1b3fc2b0" /><img width="608" height="400" alt="treemap_pricing" src="https://github.com/user-attachments/assets/098f968a-dd76-4883-8b4f-861dfadfbf2a" /># Airbnb NYC Market Analysis Dashboard
+# Airbnb NYC Market Analysis Dashboard
 
 ## Project Overview
 This project presents an interactive Tableau dashboard analyzing Airbnb listings across New York City. The dashboard focuses on pricing patterns, booking demand, customer reviews, neighbourhood distribution, and host performance.
