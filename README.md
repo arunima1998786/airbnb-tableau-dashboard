@@ -16,30 +16,37 @@ The goal of this project is to derive actionable insights related to market dyna
 
 ### KPI Summary
 This section highlights the key marketplace indicators including total hosts, total neighbourhoods, total reviews, and average reviews per month.
+
 <img width="677" height="75" alt="kpi_summary" src="https://github.com/user-attachments/assets/31e713c3-b79f-405b-bd60-64af38469693" />
 
 ### Pricing Overview (Treemap)
 This treemap compares average prices across neighbourhood groups, helping identify premium and budget markets at a glance.
+
 <img width="608" height="400" alt="treemap_pricing" src="https://github.com/user-attachments/assets/0e235427-3c5d-4e8e-8821-e24b228e1d5d" />
 
 ### Top Neighbourhoods by Price
 This chart ranks neighbourhoods by average listing price and helps identify premium micro-markets within NYC.
+
 <img width="374" height="236" alt="top_neighbourhood_prices" src="https://github.com/user-attachments/assets/4885d9f2-5f08-4a97-8c58-276ed250cf29" />
 
 ### Booking Demand Trend
 This bar and line combo chart shows monthly booking demand and neighbourhood contribution, helping identify seasonal peaks and demand concentration.
+
 <img width="661" height="442" alt="booking_demand_trend" src="https://github.com/user-attachments/assets/1e0b8b77-f36c-4a08-a51b-a0c2d62c591b" />
 
 ### Reviews Trend
 This chart tracks review growth over time and reflects the increasing activity and engagement on the platform.
+
 <img width="472" height="438" alt="reviews_trend" src="https://github.com/user-attachments/assets/a138ba20-475a-4d67-8678-6c83be14f339" />
 
 ### Top Hosts by Total Reviews
 This section identifies top-performing hosts based on total reviews and compares their prices and locations.
+
 <img width="678" height="284" alt="top_hosts" src="https://github.com/user-attachments/assets/ffa05435-315b-4575-82db-6754f51ecdd4" />
 
 ### Neighbourhood Distribution
 This pie chart shows the distribution of listings across neighbourhood groups, highlighting which boroughs dominate the market.
+
 <img width="290" height="214" alt="neighbourhood_distribution" src="https://github.com/user-attachments/assets/11903ad2-927b-452d-864f-a19a85fd9886" />
 
 ## Key Insights
